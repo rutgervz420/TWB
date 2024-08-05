@@ -14,7 +14,7 @@
        },
        "workshop": {
         "ram": 150,
-        "spy": 500
+        "catapult": 500
        }
       },
     "farm": [
